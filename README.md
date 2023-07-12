@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chamika</h1>
-<h3 align="center">I’m currently following the Computer Engineering degree offered by the General Sir John Kotelawala Defense University.</h3>
+<h3 align="center">I’m currently following Computer Engineering degree offered by the General Sir John Kotelawala Defense University.</h3>
 
 - 🌱 I’m currently learning **AWS,Python,Machine learning**
 
